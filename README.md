@@ -1,2 +1,2 @@
-# crypto-pyalgotrade
-pyalgotrade for crypto
+# crypto-algo
+algo for crypto
